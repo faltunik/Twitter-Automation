@@ -1,1 +1,4 @@
-Daily 6 tweets with hashtags related to programming
+TODO
+@:Create Client to connect with Twitter API using OAuth 1.0
+@: Create Client to conenct with
+
